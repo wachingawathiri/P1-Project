@@ -18,3 +18,10 @@ Since the missing values had reduced. The categorical columns were imputed with 
 - The state of California had the most accidents and inturn the most fatalities.
 - The number of engines was also an important factor since most accidents occures where there was only one engine in the plane.
 - The reciprocating engine was involved in most of the accidents
+- Most of the fatalities occurred during manuevering and cruising of the aircrafts.But the total accidents happened during landing and taking off.
+- Due to the advancement in technology and in the aviation industry, the number of accidents through the years have greatly decreased.
+
+  ## Recommendations
+  Purchase an aircraft with more than one engine, to reduce the risk of accidents.
+  Purchase a Boeng aircraft as it had among the least accidents for both commercial and business purposes
+  The Turbo fan engine should be considered as it has the most uninjured people and among the least involvement in the accidents.
