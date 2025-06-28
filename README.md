@@ -1,6 +1,9 @@
 # Aviation Accident analysis
 
 ## Business Understanding
+The company is expanding into the aviation sector and looking for a low risk aircraft to purchase in order to reduce accident related risk and maximize on profits for the company. 
+
+The company needs to consider the make, model and engine of an aircraft to ascertain its risk.
 
 ## Data Understanding
 Data from 1962 to 2022 was presented on aircraft accidents that occured in the United States and other countries in the world.
@@ -12,7 +15,7 @@ A state column was extracted from the location column to identify which state ha
 The event year was extracted from the event date to be able to show the trend on accidents over the years using a line graph.
 Since the missing values had reduced. The categorical columns were imputed with "unknown" and the numerical columns with "0".
 
-## Data Visualization
+## Data Manipulation
 - From the Aircraft make visuals, the Cessna make had the most number of accidents.
 - Most people on the aircraft were travelling on personal business.
 - The state of California had the most accidents and inturn the most fatalities.
@@ -23,5 +26,5 @@ Since the missing values had reduced. The categorical columns were imputed with 
 
   ## Recommendations
   Purchase an aircraft with more than one engine, to reduce the risk of accidents.
-  Purchase a Boeng aircraft as it had among the least accidents for both commercial and business purposes
+  Purchase a Boeing aircraft as it had among the least accidents for both commercial and business purposes
   The Turbo fan engine should be considered as it has the most uninjured people and among the least involvement in the accidents.
